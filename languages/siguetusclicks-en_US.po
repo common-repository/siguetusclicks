@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SigueTusClicksPlugin\n"
+"POT-Creation-Date: 2015-01-13 20:38+0100\n"
+"PO-Revision-Date: 2015-01-13 20:38+0100\n"
+"Last-Translator: Wokomedia <jorge@wokomedia.com>\n"
+"Language-Team: Wokomedia <jorge@wokomedia.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../siguetusclicks.php:77 ../siguetusclicks.php:79 ../siguetusclicks.php:85
+#: ../siguetusclicks.php:87
+msgid "Mapa de Calor"
+msgstr "Heat Map"
+
+#: ../siguetusclicks.php:96 ../siguetusclicks.php:123
+msgid "SigueTusClicks"
+msgstr "FollowYourClicks"
+
+#: ../siguetusclicks.php:103
+msgid "Dato borrado correctamente"
+msgstr "Data deleted"
+
+#: ../siguetusclicks.php:113
+msgid "Datos borrados correctamente"
+msgstr "Data deleted"
+
+#: ../siguetusclicks.php:125
+msgid "Configuraci&oacute;n"
+msgstr "Configuration"
+
+#: ../siguetusclicks.php:126
+msgid ""
+"<p>Para el correcto funcionamiento de los mapas de calor, debes darnos el "
+"ancho m&iacute;nimo normal de tu web y a la alineaci&oacute;n normal de la "
+"web. Puedes consultar nuestra documentaci&oacute;n <a href=\"http://"
+"siguetusclicks.wokomedia.com/documentacion/\">aqu&iacute;</a>.</p>"
+msgstr ""
+
+#: ../siguetusclicks.php:131
+msgid "Registrar clicks"
+msgstr "Register clicks"
+
+#: ../siguetusclicks.php:134
+msgid "Todos los usuarios"
+msgstr "All users"
+
+#: ../siguetusclicks.php:135
+msgid "Usuarios no logeados"
+msgstr "Not logged users"
+
+#: ../siguetusclicks.php:136
+msgid "Usuarios logeados"
+msgstr "Logged users"
+
+#: ../siguetusclicks.php:141
+msgid "Modo"
+msgstr "Mode"
+
+#: ../siguetusclicks.php:144
+msgid "Imagen (Mayor consumo de recursos)"
+msgstr "Image"
+
+#: ../siguetusclicks.php:145
+msgid "HTML (menor consumo de recursos)"
+msgstr "HTML"
+
+#: ../siguetusclicks.php:150
+msgid "Tama&ntilde;o m&iacute;nimo"
+msgstr "Minimum width"
+
+#: ../siguetusclicks.php:154
+msgid "Alineaci&oacute;n"
+msgstr "Alignment"
+
+#: ../siguetusclicks.php:157
+msgid "izquierda"
+msgstr "left"
+
+#: ../siguetusclicks.php:158
+msgid "centrado"
+msgstr "center"
+
+#: ../siguetusclicks.php:159
+msgid "derecha"
+msgstr "right"
+
+#: ../siguetusclicks.php:160
+msgid "ancho 100%"
+msgstr "full width"
+
+#: ../siguetusclicks.php:165
+msgid "Color puntos (Modo HTML)"
+msgstr "Point color (HTML mode)"
+
+#: ../siguetusclicks.php:168
+msgid "rojo"
+msgstr "red"
+
+#: ../siguetusclicks.php:169
+msgid "azul"
+msgstr "blue"
+
+#: ../siguetusclicks.php:170
+msgid "verde"
+msgstr "green"
+
+#: ../siguetusclicks.php:171
+msgid "amarillo"
+msgstr "yellow"
+
+#: ../siguetusclicks.php:176
+msgid "Clicks m&iacute;nimos"
+msgstr "Minimum clicks"
+
+#: ../siguetusclicks.php:188
+msgid "Guardar"
+msgstr "Save"
+
+#: ../siguetusclicks.php:191
+msgid "Listado de p&aacute;ginas"
+msgstr "List of pages"
+
+#: ../siguetusclicks.php:199
+msgid "Nombre"
+msgstr "Name"
+
+#: ../siguetusclicks.php:199
+msgid "Clicks"
+msgstr "Clicks"
+
+#: ../siguetusclicks.php:199
+msgid "Tama&ntilde;o fichero<br/>de datos"
+msgstr "Data filesize"
+
+#: ../siguetusclicks.php:199
+msgid "&Uacute;ltimo dato<br/>recogido"
+msgstr "Last data registered"
+
+#: ../siguetusclicks.php:199
+msgid "&Uacute;ltima modificaci&oacute;n<br/>de la p&aacute;gina"
+msgstr "Last edit of page"
+
+#: ../siguetusclicks.php:221 ../siguetusclicks.php:363
+msgid "Portada"
+msgstr "Home"
+
+#: ../siguetusclicks.php:235
+msgid "Borrar"
+msgstr "Delete"
+
+#: ../siguetusclicks.php:245
+#, php-format
+msgid "%s clicks registrados"
+msgstr "%s registered clicks"
+
+#: ../siguetusclicks.php:246
+msgid "Ver todos"
+msgstr "View all clicks"
+
+#: ../siguetusclicks.php:248
+msgid "Resetear mapas"
+msgstr "Reset maps"
+
+#: ../siguetusclicks.php:250
+msgid "Borrar todos los datos"
+msgstr "Delete all data"
+
+#: ../siguetusclicks.php:363
+#, php-format
+msgid "%d clicks registrados en toda la web"
+msgstr "%d registered clicks in the web"
+
+#: ../siguetusclicks.php:363
+#, php-format
+msgid "%d clicks registrados en '%s'"
+msgstr "%d registered clicks in '%s'"
